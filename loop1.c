@@ -1,3 +1,5 @@
+//intializing value of a integer varaibles and adding 4 and printing it until its value is less that 100
+
 #include<stdio.h>
 
 int main(){
